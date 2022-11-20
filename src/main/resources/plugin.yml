@@ -1,0 +1,7 @@
+name: Morph_hide
+version: '${project.version}'
+main: morph_hide.morph_hide.Morph_hide
+api-version: 1.19
+commands:
+  azgame:
+    description: game start
